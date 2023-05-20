@@ -12,5 +12,5 @@ author_profile: true
 
 ## Working papers
 
-1. Explaining Long-Term Bond Yields Synchronization Dynamics in Europe (with Jesús Crespo Cuaresma)
+1. Explaining Long-Term Bond Yields Synchronization Dynamics in Europe (with Jesús Crespo Cuaresma). Submitted.
 2. Financing Costs Over The Business Cycle: Emerging Versus Advanced Economies
