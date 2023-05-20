@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Oscar Fernandez / Home"
+title                    : "Oscar Fernandez"
 title_separator          : "-"
 name                     : &name "Oscar Fernandez"
 description              : &description "personal description"
