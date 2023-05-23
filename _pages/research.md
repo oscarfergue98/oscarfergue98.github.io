@@ -14,8 +14,7 @@ With [Tatiana Evdokimova](https://twitter.com/Tatiana_Evd?s=20) and [Laurent Mil
 
 ## Working papers
 
-1. **Explaining Long-Term Bond Yields Synchronization Dynamics in Europe**. <br />
-[[Working paper]](/files/Crespo_Fernandez_2023.pdf) <br />
+1. **Explaining Long-Term Bond Yields Synchronization Dynamics in Europe**. [[Working paper]](/files/Crespo_Fernandez_2023.pdf). <br />
 with [Jesús Crespo Cuaresma](https://www.wu.ac.at/economics/mitarbeiter-innen/crespo-j/). <br />
 (Submitted). 
 
