@@ -8,10 +8,8 @@ author_profile: true
 ## Publications in Peer-Reviewed Journals 
 
 1. **The carrot and the stock: In search of stock-market incentives for decarbonization**. [[Link]](https://www.sciencedirect.com/science/article/pii/S0140988323001135)
-
-Energy Economics, 2023. 
-
-With Tatiana Evdokimova and Laurent Millischer
+	Energy Economics, 2023. 
+	With Tatiana Evdokimova and Laurent Millischer
 
 
 ## Working papers
