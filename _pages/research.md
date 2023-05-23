@@ -9,7 +9,7 @@ author_profile: true
 
 1. **The carrot and the stock: In search of stock-market incentives for decarbonization**. [[Link]](https://www.sciencedirect.com/science/article/pii/S0140988323001135). <br />
 Energy Economics, 2023. <br />
-With Tatiana Evdokimova and Laurent Millischer
+With [Tatiana Evdokimova](https://twitter.com/Tatiana_Evd?s=20) and [Laurent Millischer](https://www.jvi.org/about/staff-list/staff-detailview.html?perid=39&no_cache=1)
 
 
 ## Working papers
