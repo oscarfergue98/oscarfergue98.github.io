@@ -14,10 +14,10 @@ With [Tatiana Evdokimova](https://twitter.com/Tatiana_Evd?s=20) and [Laurent Mil
 
 ## Working papers
 
-1. Explaining Long-Term Bond Yields Synchronization Dynamics in Europe. <br />
+1. **Explaining Long-Term Bond Yields Synchronization Dynamics in Europe**. <br />
 with [Jesús Crespo Cuaresma](https://www.wu.ac.at/economics/mitarbeiter-innen/crespo-j/). <br />
 (Submitted). 
 
-2. Financing Costs Over The Business Cycle: Emerging Versus Advanced Economies. 
+2. **Financing Costs Over The Business Cycle: Emerging Versus Advanced Economies**. 
 
 
