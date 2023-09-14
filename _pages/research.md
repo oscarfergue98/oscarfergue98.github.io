@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Publications in Peer-Reviewed Journals 
+## Journal Publications
 
 1. **The carrot and the stock: In search of stock-market incentives for decarbonization**. [[Link]](https://www.sciencedirect.com/science/article/pii/S0140988323001135). <br />
 Energy Economics, 2023. <br />
@@ -24,4 +24,4 @@ with [Jesús Crespo Cuaresma](https://www.wu.ac.at/economics/mitarbeiter-innen/c
 ## Policy Work
 
 1. **Explaining the Austria - Euro Area Inflation Gap** (work in progress). <br />
-With Sebastian Koch
+With [Sebastian Koch](https://www.ihs.ac.at/people/sebastian-koch/)
