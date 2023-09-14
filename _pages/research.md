@@ -4,7 +4,6 @@ title: ""
 permalink: /research/
 author_profile: true
 ---
-
 ## Journal Publications
 
 1. **The carrot and the stock: In search of stock-market incentives for decarbonization**. [[Link]](https://www.sciencedirect.com/science/article/pii/S0140988323001135). <br />
