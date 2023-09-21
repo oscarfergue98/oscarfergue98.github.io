@@ -14,8 +14,9 @@ With [Tatiana Evdokimova](https://twitter.com/Tatiana_Evd?s=20) and [Laurent Mil
 ## Working papers
 
 1. **Explaining Long-Term Bond Yields Synchronization Dynamics in Europe**. [[WU Working Paper]](https://research.wu.ac.at/de/publications/explaining-long-term-bond-yields-synchronization-dynamics-in-euro)  <br />
-with [Jesús Crespo Cuaresma](https://www.wu.ac.at/economics/mitarbeiter-innen/crespo-j/). <br />
-R&R at _Economic Modelling_. 
+R&R at _Economic Modelling_. <br />
+with [Jesús Crespo Cuaresma](https://www.wu.ac.at/economics/mitarbeiter-innen/crespo-j/). 
+
 
 2. **Real Financing Costs Over The Business Cycle: Emerging Versus Advanced Economies**. [[Working Paper]](/files/Fernandez_fin_costs.pdf)
 
