@@ -20,8 +20,3 @@ with [Jesús Crespo Cuaresma](https://www.wu.ac.at/economics/mitarbeiter-innen/c
 
 2. **Real Financing Costs Over The Business Cycle: Emerging Versus Advanced Economies**. [[Working Paper]](/files/Fernandez_fin_costs.pdf)
 
-
-## Policy Work
-
-1. **Explaining the Austria - Euro Area Inflation Gap** (work in progress). <br />
-With [Sebastian Koch](https://www.ihs.ac.at/people/sebastian-koch/)
