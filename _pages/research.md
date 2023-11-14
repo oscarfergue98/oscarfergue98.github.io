@@ -13,7 +13,7 @@ With Tatiana Evdokimova and Laurent Millischer
 
 ## Working papers
 
-1. **Explaining Long-Term Bond Yields Synchronization Dynamics in Europe**. [[WU Working Paper]](https://research.wu.ac.at/de/publications/explaining-long-term-bond-yields-synchronization-dynamics-in-euro)  <br />
+1. **Explaining Long-Term Bond Yields Synchronization Dynamics in Europe**. [[Working Paper]](https://research.wu.ac.at/de/publications/explaining-long-term-bond-yields-synchronization-dynamics-in-euro) [[Latest version]](files/synch_wp.pdf) <br />
 R&R at Economic Modelling. <br />
 with Jesús Crespo Cuaresma.
 
