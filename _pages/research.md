@@ -18,7 +18,7 @@ R&R at Economic Modelling. <br />
 with Jesús Crespo Cuaresma.
 
 
-2. **Real Financing Costs Over The Business Cycle: Emerging Versus Advanced Economies**. [[Working Paper]](/files/Fernandez_fin_costs.pdf)
+2. **Real Financing Costs Over The Business Cycle: Emerging Versus Advanced Economies**. [[Working Paper]](/files/Fernandez_fin_costs.pdf) [[Slides]](/files/slides_fin_costs.pdf)
 
 ## Work in progress 
 
